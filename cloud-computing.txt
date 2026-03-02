@@ -1,1 +1,8 @@
-Ini adalah pertama kali saya belajar membuat repositroy menggunakan github.
+FUNGSI UTAMA GITHUB
+1. Menyimpan Project (Repository)
+2. Version Control, semua perubahan tercatat: siapa yang mengubah, kapan diubah, dan apa yang diubah
+3. Kolaborasi Tim, memiliki fitur seperti: Pull Request, Branch, Review code, Issue Tracking
+4. Portofolio Programme, misalnya untuk CV teknis, bukti kemampuan coding, dan tempat recruiter melihat kualitas project
+      
+
+
