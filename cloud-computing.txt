@@ -3,6 +3,6 @@ FUNGSI UTAMA GITHUB
 2. Version Control, semua perubahan tercatat: siapa yang mengubah, kapan diubah, dan apa yang diubah
 3. Kolaborasi Tim, memiliki fitur seperti: Pull Request, Branch, Review code, Issue Tracking
 4. Portofolio Programme, misalnya untuk CV teknis, bukti kemampuan coding, dan tempat recruiter melihat kualitas project
-      
+
 
 
